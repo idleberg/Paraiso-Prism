@@ -8,7 +8,7 @@ A [Prism](https://github.com/LeaVerou/prism) color scheme inspired by the colorf
 
 ## Installation
 
-You will need to include a `.css` file of your choice and `prism.js` in your HTML page. For further instructions, please refer to [this page](http://prismjs.com/index.html#basic-usage).
+You will need to include `paraiso-*.css` and `prism.js` in your HTML page. For further instructions, please refer to [this page](http://prismjs.com/index.html#basic-usage).
 
 ## License
 
